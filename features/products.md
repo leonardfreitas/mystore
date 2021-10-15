@@ -1,0 +1,2 @@
+- [x] Cadastrar um produto
+- [x] Listar os produtos

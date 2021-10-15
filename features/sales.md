@@ -1,0 +1,3 @@
+- [x] cadastrar uma venda
+- [x] listar uma venda
+- [ ] visualizar o caixa

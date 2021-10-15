@@ -1,0 +1,3 @@
+- [x] cadastrar um cliente
+- [x] listar clientes
+- [ ] um cliente vai poder comprar um produto
